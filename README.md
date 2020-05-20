@@ -2,7 +2,7 @@
 
 ## PyBank
 
-Creating a Python script for analyzing the financial records of your company. You will give a set of financial data called budget_data.csv. The dataset is composed of two columns: Date and Profit/Losses. 
+Creating a Python script for analyzing the financial records of your company. You will give a set of financial data called budget_data.csv. The dataset is composed of two columns: `Date` and `Profit/Losses`. 
 
 <img src="PyBank.png">
 
@@ -22,13 +22,13 @@ Creating a Python script for analyzing the financial records of your company. Yo
 
 ## PyPoll
 
-Helping a small, rural town modernize its vote counting process
+Helping a small, rural town modernize its vote counting process. The dataset is composed of three columns: `Voter ID`, `County`, and `Candidate`. 
 
 <img src="PyPoll.png">
 
 ### Instruction
 
-* Create a Python script that analyzes the votes and calculates each of the following:
+* Your task is to create a Python script that analyzes the votes and calculates each of the following:
 
   * The total number of votes cast
   * A complete list of candidates who received votes
